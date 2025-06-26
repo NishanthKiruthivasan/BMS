@@ -50,6 +50,8 @@ Use **protected Li-Ion cells** or add an external **battery protection module** 
 ### 📷 PCB Layout (Top View)
 ![image](https://github.com/user-attachments/assets/c467aa31-558a-443d-b8ec-402800788fcb)
 
+### 📄 Schematic PDF
+[View Schematic PDF](NK_BMS_Schematic)
 
 ---
 
