@@ -74,4 +74,4 @@ Feel free to open issues for improvements or bugs.
 Created by **Nishanth Kiruthivasan**  
 📬 nishvask@gmail.com | kiruthivasan.n@northeastern.edu
 
-🔗 [Portfolio]([url](https://nishanthkiruthivasan.carrd.co/))
+🔗 [Website](https://nishanthkiruthivasan.carrd.co/)
